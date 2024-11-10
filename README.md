@@ -14,3 +14,5 @@
 <br>
 <br>
 <h2>Exemplos da página em funcionamento:</h2>
+<img src="./assets/img-working-page-1.png" />
+<img src="./assets/img-working-page-2.png" />
