@@ -12,6 +12,7 @@
     <li>JavaScript</li> 
 </ul>
 <br>
+<a href="https://atillarodrigues.github.io/DevSorteio/">Clique para ser redirecionado para o site</a>
 <br>
 <h2>Exemplos da página em funcionamento:</h2>
 <img src="./assets/img-working-page-1.png" />
