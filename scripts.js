@@ -6,6 +6,10 @@ function drawNumber () {
         alert("Por favor, insira valores válidos para o mínimo e máximo.");
         return;
     }
+    if (min > max) {
+        alert("O valor mínimo não pode ser maior que o valor máximo.");
+        return;
+    }
 
     const drawNumber = Math.floor(Math.random() * (max - min + 1) + min)
     alert(drawNumber)
