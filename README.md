@@ -17,3 +17,7 @@
 <h2>Exemplos da página em funcionamento:</h2>
 <img src="./assets/img-working-page-1.png" />
 <img src="./assets/img-working-page-2.png" />
+<br>
+<h2>Funcionamento da página Mobile</h2>
+<img src="./assets/img-working-mobile-1.png" />
+<img src="./assets/img-working-mobile-2.png" />
