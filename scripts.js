@@ -13,5 +13,6 @@ function drawNumber () {
 
     const drawNumber = Math.floor(Math.random() * (max - min + 1) + min)
     document.getElementById("result").innerHTML = `${drawNumber}`;
+    console.log("funcionou")
     
 }
